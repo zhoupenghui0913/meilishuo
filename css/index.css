@@ -115,12 +115,12 @@ body{
 }
 
 /*头部广告图片条样式*/
-.ad-banner{
+.banner{
 	display: block;
 	width: 1200px;
 	height: 75px;	
 }
-.ad-banner img{
+.banner img{
 	width: 1200px;
 }
 
@@ -388,11 +388,11 @@ body{
 
 /***内容区块图片排列的样式***/
 /*广告推荐*/
-#content .ad-rec{
+#content .gg-rec{
 	margin-right: -20px;
 	margin-top: 20px;
 }
-#content .ad-rec li{
+#content .gg-rec li{
 	float: left;
 	margin-right: 20px;
 }
@@ -461,12 +461,12 @@ body{
 	display: block;
 	float: left;
 }
-#content .for-you .foryou-line1 a.ad-big{
+#content .for-you .foryou-line1 a.gg-big{
 	width: 590px;
 	height: 284px;
 	overflow: hidden;
 }
-#content .for-you .foryou-line1 a.ad-sm{
+#content .for-you .foryou-line1 a.gg-sm{
 	width: 184px;
 	height: 284px;
 	overflow: hidden;
