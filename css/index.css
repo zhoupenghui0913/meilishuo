@@ -115,12 +115,12 @@ body{
 }
 
 /*头部广告图片条样式*/
-.banner{
+.gg-banner{
 	display: block;
 	width: 1200px;
 	height: 75px;	
 }
-.banner img{
+.gg-banner img{
 	width: 1200px;
 }
 
